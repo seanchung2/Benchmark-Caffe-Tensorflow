@@ -1,0 +1,1029 @@
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.8925217}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.6829644}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.7986914}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9991855}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.98944736}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.97251487}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.996058}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.98316884}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9026861}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.8940695}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9888741}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.7742411}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.93275654}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6587496}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999845}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99883074}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999999}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999987}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.65468025}
+{Name:n02481823 chimpanzee, chimp, Pan troglodytes, Probability:0.8903607}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99798167}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9996519}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.75055206}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.8568854}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.5415679}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.3213182}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9680393}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9189831}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.7325489}
+{Name:n02410509 bison, Probability:0.81535304}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9891082}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.676515}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9999969}
+{Name:n09399592 promontory, headland, head, foreland, Probability:0.27017078}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9144367}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998667}
+{Name:n02074367 dugong, Dugong dugon, Probability:0.5262457}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99801517}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9940096}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.99650806}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999224}
+{Name:n02415577 bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis, Probability:0.6121082}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9583427}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99981886}
+{Name:n02120079 Arctic fox, white fox, Alopex lagopus, Probability:0.76249015}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.8416358}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.999355}
+{Name:n02437312 Arabian camel, dromedary, Camelus dromedarius, Probability:0.43773592}
+{Name:n02077923 sea lion, Probability:0.2664952}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.36754948}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.90495044}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.98918426}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99590564}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9985545}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9979942}
+{Name:n02444819 otter, Probability:0.857459}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.97969353}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9957118}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.7449622}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9935074}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.2905299}
+{Name:n02099267 flat-coated retriever, Probability:0.57876337}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99967563}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99881786}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.97691536}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.7651873}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.995378}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9998117}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99539655}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99692}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999595}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998869}
+{Name:n02105056 groenendael, Probability:0.4008643}
+{Name:n02098105 soft-coated wheaten terrier, Probability:0.3746302}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.44231838}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999989}
+{Name:n02077923 sea lion, Probability:0.72271836}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9909734}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8113216}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9722651}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9905906}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99741936}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9972416}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.99794286}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8863769}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6012731}
+{Name:n02114548 white wolf, Arctic wolf, Canis lupus tundrarum, Probability:0.64676577}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9981293}
+{Name:n03000134 chainlink fence, Probability:0.53041303}
+{Name:n02108422 bull mastiff, Probability:0.15240821}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.6504224}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.91141695}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.61336714}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.51998484}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9979188}
+{Name:n02398521 hippopotamus, hippo, river horse, Hippopotamus amphibius, Probability:0.3122544}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99995923}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99911386}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9856306}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99982613}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9939855}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9622265}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9869131}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99616843}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.95872194}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.91505444}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.75180185}
+{Name:n02117135 hyena, hyaena, Probability:0.49256185}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.998776}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9882289}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99861264}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9385188}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99405175}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.45687786}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9959519}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999758}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.787522}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.7447697}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.79949}
+{Name:n02114548 white wolf, Arctic wolf, Canis lupus tundrarum, Probability:0.319654}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8299653}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.94231343}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99831283}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99993944}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99989915}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99983215}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9614092}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9745943}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.97895837}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9892179}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9993332}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.51854384}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.8568218}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02108915 French bulldog, Probability:0.09260851}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.774427}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9992855}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9653405}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.84978545}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.426299}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.88670754}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9939957}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.5417778}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.94884074}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.96110827}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.96518797}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9832298}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9893332}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.53548884}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.92618954}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99969363}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02105056 groenendael, Probability:0.4008643}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.98146236}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9859206}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.8989813}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99764246}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.36818287}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99961627}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.77093774}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998878}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9978047}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.8725192}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9989687}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.82859004}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99886084}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999034}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9997533}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.99984133}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.80068153}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9983022}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999652}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.6644399}
+{Name:n09421951 sandbar, sand bar, Probability:0.327746}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.22606492}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.5032265}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999758}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.59850687}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99995494}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9967333}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99786323}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9802752}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99813396}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999785}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999106}
+{Name:n02105505 komondor, Probability:0.43038374}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99833834}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999963}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9991831}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99740547}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.93929714}
+{Name:n03594945 jeep, landrover, Probability:0.9409358}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.82061374}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.8042138}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99911934}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9996132}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.84440345}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9984101}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9833176}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9997645}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.8800526}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.39769018}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9635845}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9836923}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99998736}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.98603106}
+{Name:n02119022 red fox, Vulpes vulpes, Probability:0.46142435}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99996924}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9831849}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9183194}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9999088}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9991721}
+{Name:n01882714 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus, Probability:0.7634451}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9999778}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.7826846}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9995946}
+{Name:n02410509 bison, Probability:0.53694886}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9998863}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9996989}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9051296}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.96009356}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9528882}
+{Name:n02437312 Arabian camel, dromedary, Camelus dromedarius, Probability:0.48751998}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.7687062}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.97751164}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9577987}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9654538}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.4685298}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99913687}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99998677}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9900754}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.8594237}
+{Name:n02504013 Indian elephant, Elephas maximus, Probability:0.43867046}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.2784141}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.98450226}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.69445884}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99970704}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02481823 chimpanzee, chimp, Pan troglodytes, Probability:0.3246702}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.1894232}
+{Name:n02509815 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens, Probability:0.43423793}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9967499}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9471905}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99992025}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99972516}
+{Name:n02437312 Arabian camel, dromedary, Camelus dromedarius, Probability:0.7181013}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.78117216}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9995988}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999014}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99983776}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99998283}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99830806}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9897496}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998223}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.78435963}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.489283}
+{Name:n02127052 lynx, catamount, Probability:0.67789274}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9987471}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.6996336}
+{Name:n02480495 orangutan, orang, orangutang, Pongo pygmaeus, Probability:0.55782443}
+{Name:n02093754 Border terrier, Probability:0.6487465}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.35334128}
+{Name:n01882714 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus, Probability:0.99523634}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.615233}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.99999976}
+{Name:n02410509 bison, Probability:0.57022035}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999988}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.38138875}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999595}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.782973}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9586056}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9941286}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99923885}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.71074605}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9818454}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99904305}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9996209}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.98970795}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9847018}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.98606074}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9695547}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.63928425}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.89725536}
+{Name:n01882714 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus, Probability:0.83059984}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9876574}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99963355}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.84941906}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.33177334}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9725264}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99761933}
+{Name:n02088632 bluetick, Probability:0.25130305}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9822604}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9377562}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.97884095}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999356}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99792045}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9513603}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99988735}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99898547}
+{Name:n02444819 otter, Probability:0.40290883}
+{Name:n02106550 Rottweiler, Probability:0.44295952}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999343}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9946681}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9777518}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02486410 baboon, Probability:0.33964512}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99776185}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.96095634}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.91751426}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9289967}
+{Name:n03594945 jeep, landrover, Probability:0.16448934}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9997036}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999869}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.98124963}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9815041}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999285}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9955787}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9997793}
+{Name:n02077923 sea lion, Probability:0.35236347}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9999614}
+{Name:n02096294 Australian terrier, Probability:0.44737753}
+{Name:n02117135 hyena, hyaena, Probability:0.14355351}
+{Name:n02105505 komondor, Probability:0.47707325}
+{Name:n04251144 snorkel, Probability:0.45489028}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.5165772}
+{Name:n02504013 Indian elephant, Elephas maximus, Probability:0.45233038}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02077923 sea lion, Probability:0.3481509}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99887305}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.63064903}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.92440116}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999989}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999987}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9913799}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9997342}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9988986}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.91928357}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.96563476}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.7637083}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9853119}
+{Name:n02790996 barbell, Probability:0.105688885}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999905}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9369934}
+{Name:n09246464 cliff, drop, drop-off, Probability:0.88340306}
+{Name:n01882714 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus, Probability:0.99999654}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9910286}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999989}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8355807}
+{Name:n02117135 hyena, hyaena, Probability:0.22483282}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9663159}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999106}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9990127}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.999962}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9817622}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999738}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.4368365}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.91738564}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99435186}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02526121 eel, Probability:0.40127015}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.999997}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9906533}
+{Name:n02509815 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens, Probability:0.9999999}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.88973343}
+{Name:n02444819 otter, Probability:0.3029467}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9218957}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9811948}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998754}
+{Name:n02105505 komondor, Probability:0.77319044}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9936837}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.999466}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.98424697}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9118559}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99979764}
+{Name:n02481823 chimpanzee, chimp, Pan troglodytes, Probability:0.52242064}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99952376}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9829679}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9952441}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9995204}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.926557}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9760908}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.7463438}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.97310996}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.86947906}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9903106}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9636258}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99219406}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.5620791}
+{Name:n02488702 colobus, colobus monkey, Probability:0.5587858}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99790657}
+{Name:n02441942 weasel, Probability:0.2830874}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999976}
+{Name:n02105641 Old English sheepdog, bobtail, Probability:0.33019117}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.98133284}
+{Name:n02117135 hyena, hyaena, Probability:0.4211378}
+{Name:n02492660 howler monkey, howler, Probability:0.17288254}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.98067725}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.73017293}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.84927726}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.84751487}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99998784}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9997867}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.5032265}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.75841373}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99766195}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.43122843}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9989863}
+{Name:n02114548 white wolf, Arctic wolf, Canis lupus tundrarum, Probability:0.53581387}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9913147}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9994106}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.999729}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.82389545}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.7427036}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9866802}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.65349543}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9979511}
+{Name:n02396427 wild boar, boar, Sus scrofa, Probability:0.6578833}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9784023}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.92305964}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8054071}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.21441224}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.52299875}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9902198}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.5607338}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998896}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9973985}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9646469}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9099225}
+{Name:n01882714 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus, Probability:0.99953055}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.26064625}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9997008}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9730627}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99961734}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99880016}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9997887}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.91770655}
+{Name:n09193705 alp, Probability:0.24452642}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.90660846}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999887}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99964845}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.97854346}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6421547}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6522155}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9869867}
+{Name:n02481823 chimpanzee, chimp, Pan troglodytes, Probability:0.3564914}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.7186467}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.89314264}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9730455}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.99876475}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999813}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9823712}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99948466}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.6599116}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.999824}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99954224}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.87072074}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.3844554}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99908197}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.21401298}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99534225}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9971734}
+{Name:n04366367 suspension bridge, Probability:0.1770485}
+{Name:n01883070 wombat, Probability:0.13460895}
+{Name:n01883070 wombat, Probability:0.60294884}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6721287}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9784635}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.91977286}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9997187}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99944776}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99172735}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.78059864}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9998672}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9964114}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999459}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9976705}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999584}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999877}
+{Name:n02099849 Chesapeake Bay retriever, Probability:0.78999984}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.5659822}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9997216}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02488702 colobus, colobus monkey, Probability:0.5587858}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9998542}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9707236}
+{Name:n02077923 sea lion, Probability:0.34773242}
+{Name:n02398521 hippopotamus, hippo, river horse, Hippopotamus amphibius, Probability:0.5667471}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.82338876}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.73679996}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.7805447}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999044}
+{Name:n02708093 analog clock, Probability:0.20680563}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9996112}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.996351}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.93152946}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9731611}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.89727634}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.999905}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99991477}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999418}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9984041}
+{Name:n02106550 Rottweiler, Probability:0.840739}
+{Name:n02361337 marmot, Probability:0.5070015}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.999653}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9886755}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6406674}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99860185}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n01498041 stingray, Probability:0.26013684}
+{Name:n01882714 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus, Probability:0.9978769}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99811137}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.604783}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99995124}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.86064464}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.92715836}
+{Name:n02398521 hippopotamus, hippo, river horse, Hippopotamus amphibius, Probability:0.76554894}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.38139725}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99965274}
+{Name:n01882714 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus, Probability:0.9963109}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998841}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.99920124}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8659105}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.999984}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99960905}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99850154}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9757716}
+{Name:n02396427 wild boar, boar, Sus scrofa, Probability:0.51053965}
+{Name:n02483708 siamang, Hylobates syndactylus, Symphalangus syndactylus, Probability:0.31830233}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.560306}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999763}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.87930757}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.8940152}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999981}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.98422617}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99917173}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99984026}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9995347}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.94659877}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998466}
+{Name:n02115913 dhole, Cuon alpinus, Probability:0.38344425}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02444819 otter, Probability:0.36017686}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99979097}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9569019}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.7751773}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.945802}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99961394}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03388043 fountain, Probability:0.5213879}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99997795}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.97152644}
+{Name:n01494475 hammerhead, hammerhead shark, Probability:0.24401505}
+{Name:n02398521 hippopotamus, hippo, river horse, Hippopotamus amphibius, Probability:0.8929818}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99981564}
+{Name:n02104029 kuvasz, Probability:0.74143076}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99749786}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.3771403}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.21408069}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99991775}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99307775}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02509815 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens, Probability:0.999255}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.47855052}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9975197}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.96152574}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.96633554}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.91051495}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9999982}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8200262}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9995467}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.7578267}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99850297}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.39660066}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.86562544}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9948567}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.6770576}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9647141}
+{Name:n02509815 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens, Probability:0.9999995}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.4167815}
+{Name:n02509815 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens, Probability:0.99999964}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9961366}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.64906347}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n01882714 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus, Probability:0.99999595}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9999995}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.996236}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.5828294}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.24319266}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6958227}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9995346}
+{Name:n02441942 weasel, Probability:0.082682304}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9783956}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.71827394}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.94208366}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8808582}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02093754 Border terrier, Probability:0.62799114}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.7509874}
+{Name:n02442845 mink, Probability:0.70990115}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9774754}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99987805}
+{Name:n03498962 hatchet, Probability:0.5024044}
+{Name:n09468604 valley, vale, Probability:0.6185241}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.99998736}
+{Name:n02509815 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens, Probability:0.9996166}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9024948}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9906158}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02396427 wild boar, boar, Sus scrofa, Probability:0.51422757}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99850154}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.64614785}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6908136}
+{Name:n02509815 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens, Probability:0.9999255}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.78639734}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9933027}
+{Name:n02117135 hyena, hyaena, Probability:0.4948163}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.48884866}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9992908}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.98226076}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.8727728}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.74158984}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.2940475}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.89204013}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9998703}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99993193}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99821657}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99598736}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02410509 bison, Probability:0.87985885}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9993305}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.7383269}
+{Name:n02408429 water buffalo, water ox, Asiatic buffalo, Bubalus bubalis, Probability:0.21390818}
+{Name:n02364673 guinea pig, Cavia cobaya, Probability:0.25705603}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999845}
+{Name:n02074367 dugong, Dugong dugon, Probability:0.33629036}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.97260123}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99858034}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9984876}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9457172}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9999995}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9989691}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.3392816}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6369166}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.8980964}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999168}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.83954924}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.821423}
+{Name:n02074367 dugong, Dugong dugon, Probability:0.7469022}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9830026}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9949556}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.48509443}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9954556}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999957}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.86965775}
+{Name:n03457902 greenhouse, nursery, glasshouse, Probability:0.2817704}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.97894865}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.75714743}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99432385}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02410509 bison, Probability:0.5605609}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99908006}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9746368}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999852}
+{Name:n02397096 warthog, Probability:0.09046741}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.91636723}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99998033}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9986603}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99998033}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9999684}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99976176}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999825}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99523926}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9855816}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999788}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.90431356}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.6841667}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9496326}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999708}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.88962454}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9498162}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02398521 hippopotamus, hippo, river horse, Hippopotamus amphibius, Probability:0.65858465}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.990123}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8992085}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.6660914}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.61750185}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9997836}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99997795}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8486123}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99294066}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9981737}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99998915}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9997423}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9873898}
+{Name:n03218198 dogsled, dog sled, dog sleigh, Probability:0.2509379}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9999912}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.80353874}
+{Name:n02398521 hippopotamus, hippo, river horse, Hippopotamus amphibius, Probability:0.9258755}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.81561375}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.99905473}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9874535}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9975805}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.8614943}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02094114 Norfolk terrier, Probability:0.33626038}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9651321}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.38300222}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.81231695}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.74138385}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.9963129}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.7090558}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.607765}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.96596444}
+{Name:n02447366 badger, Probability:0.67149323}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99976116}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.31799996}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.53522223}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99968994}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.457221}
+{Name:n02504458 African elephant, Loxodonta africana, Probability:0.20521426}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.98112166}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n04251144 snorkel, Probability:0.37000793}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9996979}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.74006283}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99915016}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9987973}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9999498}
+{Name:n02110958 pug, pug-dog, Probability:0.17690021}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9841701}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.73707217}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99948716}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999807}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.30625126}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9998018}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9947207}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9693375}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9987859}
+{Name:n02361337 marmot, Probability:0.29365197}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9940221}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.998104}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.71337515}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9815669}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9972791}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.92720807}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9971263}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9994473}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9985903}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9127105}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9736057}
+{Name:n02444819 otter, Probability:0.19088264}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9987086}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.77261096}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9992907}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.7602249}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.494383}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99790657}
+{Name:n02104029 kuvasz, Probability:0.16964573}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99905914}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.996819}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9885028}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.97544223}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9997726}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99899644}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.986252}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.8419719}
+{Name:n02363005 beaver, Probability:0.41179675}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.98824173}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99940276}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.95534515}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9911752}
+{Name:n02457408 three-toed sloth, ai, Bradypus tridactylus, Probability:0.14822857}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.5264461}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.90452284}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99935657}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99965346}
+{Name:n02481823 chimpanzee, chimp, Pan troglodytes, Probability:0.5401911}
+{Name:n02117135 hyena, hyaena, Probability:0.5979556}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998988}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.96884143}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9926917}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9994423}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9999354}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99803394}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9989165}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9981437}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.59032154}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99781644}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.91049755}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99255}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99959165}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.5035957}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9915372}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.62265897}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.90452284}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.94478595}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.8231954}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.5133027}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.96564573}
+{Name:n02114548 white wolf, Arctic wolf, Canis lupus tundrarum, Probability:0.49986598}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9977428}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99857724}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.98424697}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.80258733}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9297946}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.98982006}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99998224}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.5238764}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.664198}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.65695715}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9906158}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.7909228}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.66952884}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.7123235}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.96151096}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.80258733}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.899489}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.54108715}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999938}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.90197426}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9989794}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9836548}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99597}
+{Name:n02398521 hippopotamus, hippo, river horse, Hippopotamus amphibius, Probability:0.5098645}
+{Name:n02107683 Bernese mountain dog, Probability:0.2717048}
+{Name:n03042490 cliff dwelling, Probability:0.7813922}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.4695064}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9943493}
+{Name:n02480855 gorilla, Gorilla gorilla, Probability:0.37903622}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8237951}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.99833953}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.5555995}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.5195506}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.917697}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9980096}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.90191424}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.82055265}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9947818}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999889}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9989058}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99936837}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999356}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999596}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.42390367}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.99999976}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9591213}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99999833}
+{Name:n02363005 beaver, Probability:0.5531755}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.52513003}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02493793 spider monkey, Ateles geoffroyi, Probability:0.61989254}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.6776789}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.97976387}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.998701}
+{Name:n02444819 otter, Probability:0.13365787}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9758381}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9161871}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99519205}
+{Name:n02398521 hippopotamus, hippo, river horse, Hippopotamus amphibius, Probability:0.35060486}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.93063027}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.999858}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.8556259}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.34365737}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99718755}
+{Name:n02492660 howler monkey, howler, Probability:0.36060452}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.999884}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9872804}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9984101}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9968008}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9984003}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9992594}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.98308116}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.93563724}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.7293228}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99936897}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999857}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99590755}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.55241627}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99960834}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99936026}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9919402}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.99357694}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9998441}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.27733636}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9999949}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.36417386}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9868602}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.6554748}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9923165}
+{Name:n02134418 sloth bear, Melursus ursinus, Ursus ursinus, Probability:0.8447619}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.97665876}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.8964958}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9882238}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99936455}
+{Name:n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca, Probability:0.9999709}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9951443}
+{Name:n02395406 hog, pig, grunter, squealer, Sus scrofa, Probability:0.2852395}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.999469}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99967444}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.99889886}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.99974114}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999896}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.9208893}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.83013165}
+{Name:n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus, Probability:0.9999304}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.60452765}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.64226043}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9962368}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.67780435}
+{Name:n03404251 fur coat, Probability:0.31257942}
+{Name:n02132136 brown bear, bruin, Ursus arctos, Probability:0.9931966}
+{Name:n03291819 envelope, Probability:0.8252077}
+{Name:n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus, Probability:0.87195045}
